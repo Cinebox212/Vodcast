@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Sample Vodcast</title>
+<link>http://siptv.eu</link>
+<language>en-us</language>
+<copyright>℗ & © needz</copyright>
+<itunes:subtitle>A sample Vodcast to fiddle around</itunes:subtitle>
+<itunes:author>needz</itunes:author>
+<itunes:summary>This is just a sample Vodcast feed to be able to add it to your custom Vodcasts, if you don't have any other Vodcasts URL to try yet</itunes:summary>
+<description>This is just a sample Vodcast feed to be able to add it to your custom Vodcasts, if you don't have any other Vodcasts URL to try yet</description>
+<itunes:owner>
+<itunes:name>needz</itunes:name>
+<itunes:email>needz@mail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://vodcasts.eu/covers/melon.png"/>
+<itunes:category text="Various">
+<itunes:category text="Gadgets"/>
+</itunes:category>
+<itunes:category text="TV & Film"/>
+<item>
+<title>LG Nature Clip</title>
+<itunes:author>LG Electronics</itunes:author>
+<itunes:subtitle>LG Nature four seasons clip</itunes:subtitle>
+<itunes:summary>In Europe, 16:9 is the standard broadcast format for most digital channels and all HDTV broadcasts. Some countries adopted the format for analog television, first by using the PALplus standard (now obsolete) and then by simply using WSS signals on normal PAL broadcasts.</itunes:summary>
+<itunes:image href="http://vodcasts.eu/covers/nature.jpg"/>
+<enclosure type="video/mp4" length="320239838" url="http://vodcasts.eu/media/nature.mp4"/>
+<guid>http://vodcasts.eu/media/nature.mp4</guid>
+<pubDate>Mon, 21 Apr 2014 19:00:00 GMT</pubDate>
+<itunes:duration>12:00</itunes:duration>
+</item>
+<item>
+<title>Winter Extreme Sports Clip</title>
+<itunes:author>Jane Doe</itunes:author>
+<itunes:subtitle>Comparing socket wrenches is fun!</itunes:subtitle>
+<itunes:summary>This week we talk about metric vs. old english socket wrenches. Which one is better? Do you really need both? Get all of your answers here.</itunes:summary>
+<itunes:image href="http://vodcasts.eu/covers/clip.jpg"/>
+<enclosure type="video/mov" length="320239838" url="http://vodcasts.eu/media/clip.mov"/>
+<guid>http://vodcasts.eu/media/clip.mov</guid>
+<pubDate>Wed, 2 Apr 2014 19:00:00 GMT</pubDate>
+<itunes:duration>3:08</itunes:duration>
+<itunes:order/>
+</item>
